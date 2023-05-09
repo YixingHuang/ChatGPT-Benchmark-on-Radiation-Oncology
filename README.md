@@ -12,5 +12,5 @@ This repository contains the American College of Radiation (ACR) radiation oncol
 The [exam sheet](https://www.acr.org/-/media/ACR/Files/DXIT-TXIT/ACR-2021-TXIT-Exam---Assembled.pdf) and the [knowledge domain definition](https://www.acr.org/-/media/ACR/Files/DXIT-TXIT/ACR-TXIT---Table-of-Specifications.pdf) are from the ACR official website.
 
 ## Red Journal Gray Zone Cases
-This repository contains the [2022 red journal collection of gray zone cases](https://www.redjournal.org/content/grayzone) as well as ChatGPT-4's responses. For each case, ChatGPT-4's recommendations for treating the patient are attached at the end of the corresponding pdf file.
+This repository contains the [2022 red journal collection of gray zone cases](https://www.redjournal.org/content/grayzone) as well as ChatGPT-4's responses. For each case, the case description and the corresponding human experts' opinions are publicly available via the [red journal gray zone website](https://www.redjournal.org/content/grayzone). ChatGPT-4's recommendations for treating the patient are attached at the end of the corresponding pdf file for each case.
 In addition, the files we used for the blind clinician vote are also displayed.
