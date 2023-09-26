@@ -1,9 +1,9 @@
 # ChatGPT-Benchmark-on-Radiation-Oncology
 
-Benchmarking ChatGPT-4 on ACR Radiation Oncology In-Training (TXIT) Exam and Red Journal Gray Zone Cases: 
-Potentials and Challenges for AI-Assisted Medical Education and Decision Making in Radiation Oncology
+Benchmarking ChatGPT-4 on a radiation oncology in-training exam and Red Journal Gray Zone cases: 
+potentials and challenges for AI-assisted medical education and decision making in radiation oncology
 
-[Preprint Paper](https://arxiv.org/abs/2304.11957)
+[Frontiers in Oncology Paper](https://doi.org/10.3389/fonc.2023.1265024)
 
 ## ACR TXIT Exam
 
